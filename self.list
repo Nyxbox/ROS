@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,mgdjmp.com
 DOMAIN-SUFFIX,afcdn.net
 DOMAIN-SUFFIX,frcapi.com
 IP-CIDR,69.55.53.0/24,no-resolve
+DOMAIN,c510.1ka.com
+DOMAIN,api.veebs.org
